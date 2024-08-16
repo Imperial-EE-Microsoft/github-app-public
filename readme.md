@@ -1,6 +1,9 @@
 # Co-op-translator
 Co-Operator is designed to automate the tedious and time-consuming task of localization in large repositories. This involves translating all images, documents, and code examples to make them accessible to developers worldwide. By automating these processes, we aim to streamline repository management and enhance productivity.
 
+> [!WARNING]
+> This GitHub repository is only a public mirror of a private repository used for a proof-of-concept demo. Please do not install any links or apps as this repository is not actively being maintained.
+
 ## User-Side Setup
 1. access co-op-translator [here](https://github.com/apps/co-op-translator)
 2. click install
